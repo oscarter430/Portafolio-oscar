@@ -1507,7 +1507,7 @@ laptop
 ===================================================*/
 .about{/*Para la pagina 2 descripcion de mi */
    position: relative;
-width: 1420px; /*Ajuste del select */
+width: 1300px; /*Ajuste del select */
   justify-content: space-between;
   height: 1100px;
   background: #006666 no-repeat;
