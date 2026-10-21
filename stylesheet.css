@@ -5,7 +5,7 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
   font-family: 'poppins', sans-serif;
-}
+} 
 
 body{
  /* color: #ededed;
@@ -1520,7 +1520,7 @@ width: 1290px; /*Ajuste del select */
 }
 .img{
 height:920px;
-width: 420px;
+width: 320px;
 
 }
 .about-img img{
