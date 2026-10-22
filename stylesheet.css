@@ -1147,6 +1147,17 @@ width: 420px;
    border:5px solid   #1A1A1A ;
  
 }
+.about-text{
+       max-width: 1800px;
+
+
+  width: 900px;
+  height: 750px;
+ /* border: 1px solid #000;*/
+  overflow: hidden; /* Evita que el contenido se desborde */
+
+}
+
 
 /*Tercera pagina ===========================================================
 ==============================================================================
